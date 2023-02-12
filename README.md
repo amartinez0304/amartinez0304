@@ -17,7 +17,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
 
     def __init__(self):
@@ -37,6 +36,15 @@ arnulfo.say_hi()
 ```
 
 ### Technologies
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![ScikitLearn](https://img.shields.io/badge/-Scikitlearn-000?&logo=scikitlearn)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![RPA](https://img.shields.io/badge/-RPA&Selenium-000?&logo=selenium)
 
 ### Projects
 
