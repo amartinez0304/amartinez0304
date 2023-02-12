@@ -28,9 +28,7 @@ class SoftwareEngineer:
         self.pets = ["Denver"]
         self.nationality = ["Mexican 🇲🇽"]
     def say_hi(self):
-        print("Thanks for dropping by! I love connecting with people! If you wanna say hi, give me a shout! Adios!")
-
-
+        print("Thanks for dropping by! If you wanna connect just give me a shout!")
 arnulfo = SoftwareEngineer()
 arnulfo.say_hi()
 ```
