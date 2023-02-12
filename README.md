@@ -12,4 +12,33 @@
   </a>
 </p>
 
+### About me
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Arnulfo Martínez Salazar"
+        self.role = "Software Engineer"
+        self.company = "Deloitte MX"
+        self.languages = ["EN", "ESP", "DE"]
+        self.hobbies = ["Cycling", "Running", "Reading", "Cinema", "Football"]
+        self.pets = ["Denver"]
+        self.nationality = ["Mexican 🇲🇽"]
+    def say_hi(self):
+        print("Thanks for dropping by! I love connecting with people! If you wanna say hi, give me a shout! Adios!")
+
+
+arnulfo = SoftwareEngineer()
+arnulfo.say_hi()
+```
+
+### Technologies
+
+### Projects
+
+
 
